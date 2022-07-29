@@ -1,0 +1,42 @@
+.Ffont {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: rgb(226, 67, 67);
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: url(header.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+.myBtn{
+    font-weight: 700;
+    border-radius: 280px;
+    padding: 1rem 2rem;
+    background-color: #f05f44;
+    border-color: #f75d42;
+}
+.myBtn:hover{
+    background-color: #fd4d07;
+    border-color: #ff3c00;
+    border-width: 4px;
+}
+.myHr{
+    border-color: #ff320e;
+    border-width: 3px;
+    max-width: 67px;
+    
+}
+.myDiv{
+    width: 100%;
+    height: 100%;
+}
+.buffer{
+    height: 10rem;
+}
